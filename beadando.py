@@ -1,0 +1,1 @@
+print("Er ez egy otost?!")
